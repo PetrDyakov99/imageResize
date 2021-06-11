@@ -1,0 +1,7 @@
+name = "test_project"
+uuid = "03572309-0f5b-48e2-95c8-391e417e8f7b"
+authors = ["Petr "]
+version = "0.1.0"
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
